@@ -136,7 +136,6 @@ label {
     padding: 30px 30px 80px;
     font-family: 'OpenSans-Light';
     font-weight: 300;
-    /* font-size: 40px; */
     font-size: 26px;
     color: #555559;
     letter-spacing: -0.05em;
@@ -183,7 +182,9 @@ label {
     font-size: 24px;
     margin-left: -38px;
 }
-
+.card-title p {
+    display: inline-block;
+}
 .card-description {
     font-family: 'OpenSans-Light';
     font-weight: 300;
